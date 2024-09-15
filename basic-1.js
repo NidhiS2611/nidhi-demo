@@ -109,7 +109,7 @@ const game = new String("nidhi")
 console.log(game[0]);
 console.log(game.length);
 console.log(game.indexOf('i'));
-
+                                      all about basic thamks 
 
 
 

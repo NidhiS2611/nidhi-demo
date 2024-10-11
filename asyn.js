@@ -12,6 +12,10 @@
 // it allow to run aage ka code 
 // it create alg thread async code to browser
 //isme hmm dosre instruction compelete hone ka wait nhi karte aur aage badte hai
+
+
+
+
 //console.log("hello");
 //setTimeout(() => {
 //console.log("jhi");
@@ -53,6 +57,10 @@ setTimeout(hello, 3000)
 // sabse pehle jb koi promise banta hai vo pending state mai hota hai 
 // jab kam complte ho jata haio tb vo resolve ko call karta hai aur fullfilled state mai pahuch jata hai
 // end uske bad then  usko handle karta hai
+
+
+
+
 //let promise1 = new Promise((resolve, reject) => {// promise creation
 //setTimeout(() => {
   // console.log("nidhi");
@@ -64,6 +72,9 @@ setTimeout(hello, 3000)
 //})
 //console.log("hello");
 //*********************88888888888888888888888888888888888 */
+
+
+
 // promises chaining
 
 let p1 = new Promise((resolve,reject)=>{
